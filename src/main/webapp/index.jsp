@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Disney+ Hotstar - Watch TV Shows Online</title>
+    <title>Jio Hotstar - Watch TV Shows Online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -26,7 +26,7 @@
             <li class="nav-items"><a href="#">Sports</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
-            <li class="icon"><a href="#"></a></li>
+            <li class="icon"><a href="#">Take Subscription</a></li>
         </ul>
 
         <div class="right-container">
